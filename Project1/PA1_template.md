@@ -58,7 +58,7 @@ abline(v=median(T_step),col="red",lwd=4)
 abline(v=mean(T_step),col="green",lwd=4)
 ```
 
-![](PA1_template_files/figure-html/Histogram-1.png)<!-- -->
+![](Project1/Histogram-1.png)<!-- -->
 
 The median of the total steps per day in red is 10395, and the mean of the total steps per day in green is 9354.23.
 
